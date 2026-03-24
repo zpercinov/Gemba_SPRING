@@ -75,7 +75,7 @@
                             </div>
                         </div>
 
-                        <!-- Dugme -->
+                       
                         <button type="submit" class="btn btn-login-custom w-100 py-2">
                             <i class="bi bi-box-arrow-in-right me-2"></i> Prijavi se
                         </button>
@@ -84,6 +84,7 @@
                             © <a href="mailto:zoran.percinov@hemofarm.com" class="text-decoration-none">Zoran Perčinov</a>,
                             IT sistemi kvaliteta, Hemofarm, 2025
                         </p>--%>
+                      
                     </form>
                 </div>
             </div>
