@@ -5,7 +5,7 @@
     <div class="container py-3 d-flex justify-content-center align-items-center gap-3 flex-wrap">
         <!-- Tekst -->
         <span class="text-muted fw-medium small">
-            &copy; 2025 Zoran Perčinov, IT sistemi kvaliteta, Hemofarm
+            &copy; Student: Zoran Perčinov, br. indeksa: 2024/4151
         </span>
 
         <!-- Logo sa c:url -->
@@ -14,7 +14,7 @@
              class="align-middle footer-logo">
 
         <!-- Kontakt sa c:url (ako treba, mali je mejl) -->
-        <a href="mailto:zoran.percinov@hemofarm.com" 
+        <a href="mailto:zp20244151@student.fon.bg.ac.rs" 
            class="text-primary fw-semibold d-flex align-items-center text-decoration-none contact-link">
             <i class="bi bi-envelope-at-fill me-1"></i> Kontakt
         </a>

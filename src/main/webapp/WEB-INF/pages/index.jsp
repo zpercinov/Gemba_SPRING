@@ -80,10 +80,10 @@
                             <i class="bi bi-box-arrow-in-right me-2"></i> Prijavi se
                         </button>
 
-                        <p class="text-muted mt-4 mb-0" style="font-size:0.85rem;">
+                      <%--  <p class="text-muted mt-4 mb-0" style="font-size:0.85rem;">
                             © <a href="mailto:zoran.percinov@hemofarm.com" class="text-decoration-none">Zoran Perčinov</a>,
                             IT sistemi kvaliteta, Hemofarm, 2025
-                        </p>
+                        </p>--%>
                     </form>
                 </div>
             </div>
