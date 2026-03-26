@@ -14,7 +14,7 @@ Specijalističke akademske studije
 
 
 
-## Softverski sistem za praćenje i kontrolu poslovne izvršnosti primenom Spring Boot Java okvira  
+## Softverski sistem za praćenje i kontrolu poslovne izvrsnosti primenom Spring Boot Java okvira  
 ## Veb aplikacija „Gemba“
 
 <img src="src/main/webapp/img/img_gemba.png" alt="Gemba logo" width="180"/>
